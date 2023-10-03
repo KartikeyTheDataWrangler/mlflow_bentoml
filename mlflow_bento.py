@@ -94,8 +94,24 @@ df = mlflow.search_runs([experiment.experiment_id])
 print(df.columns)
 
 best_run = df.iloc[df['metrics.mae'].idxmin()]
-print(best_run)
-best_artifact = best_run.artifact_uri   
-print(best_artifact)
+#print(best_run)
+best_artifact_uri = best_run['artifact_uri'] 
+print(best_artifact_uri)
 
-bentoml.mlflow.import_model('logistic_regression_model', best_artifact)     
+#bentoml.mlflow.import_model('elasticnet_model', best_artifact_uri)
+best_run_id = best_run['run_id']
+print(best_run_id)
+
+model_uri = f"runs:/{best_run_id}/model"
+print(model_uri)
+bento_model = bentoml.mlflow.import_model("my_test_model", model_uri)
+
+bento_runner = bento_model.to_runner()
+
+
+from bentoml.io import NumpyNdarray
+svc = bentoml.Service('my_model', runners=[bento_runner])
+
+@svc.api(input=bentoml.io.NumpyNdarray(),output=bentoml.io.NumpyNdarray(),route='/beleth')
+def predict(input_arr):
+    return bento_runner.predict.run(input_arr)

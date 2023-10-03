@@ -1,0 +1,6 @@
+artifact_location: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993
+creation_time: 1696328650300
+experiment_id: '457312110270581993'
+last_update_time: 1696328650300
+lifecycle_stage: active
+name: my_experiment
