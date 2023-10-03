@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/ec32d35cd1e84ba48c62adb492113641/artifacts
+end_time: 1696320875592
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: ec32d35cd1e84ba48c62adb492113641
+run_name: blushing-goose-599
+run_uuid: ec32d35cd1e84ba48c62adb492113641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320870127
+status: 4
+tags: []
+user_id: Aman

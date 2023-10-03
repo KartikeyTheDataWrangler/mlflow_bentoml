@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/77a8d34bf1fb4d888f5927e88e789f5f/artifacts
+end_time: 1696320668609
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 77a8d34bf1fb4d888f5927e88e789f5f
+run_name: fortunate-kite-453
+run_uuid: 77a8d34bf1fb4d888f5927e88e789f5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320664393
+status: 3
+tags: []
+user_id: Aman

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/6821021531174e9497a274751275a932/artifacts
+end_time: 1696321871270
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 6821021531174e9497a274751275a932
+run_name: rumbling-hog-155
+run_uuid: 6821021531174e9497a274751275a932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321868027
+status: 4
+tags: []
+user_id: Aman

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/4b83a43328f94bbebebbb480e8ca5cce/artifacts
+end_time: 1696320595783
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 4b83a43328f94bbebebbb480e8ca5cce
+run_name: respected-mare-96
+run_uuid: 4b83a43328f94bbebebbb480e8ca5cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320590850
+status: 3
+tags: []
+user_id: Aman

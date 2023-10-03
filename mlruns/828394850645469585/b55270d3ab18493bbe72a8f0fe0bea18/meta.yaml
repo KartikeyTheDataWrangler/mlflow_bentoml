@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/b55270d3ab18493bbe72a8f0fe0bea18/artifacts
+end_time: 1696321115917
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: b55270d3ab18493bbe72a8f0fe0bea18
+run_name: rebellious-wolf-763
+run_uuid: b55270d3ab18493bbe72a8f0fe0bea18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321111461
+status: 3
+tags: []
+user_id: Aman

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/91ab10de336649f7b99e980db46f2c08/artifacts
+end_time: 1696321444790
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 91ab10de336649f7b99e980db46f2c08
+run_name: amazing-cow-475
+run_uuid: 91ab10de336649f7b99e980db46f2c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321441405
+status: 3
+tags: []
+user_id: Aman

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/6eb5ba70e8ef4abcb874276564661916/artifacts
+end_time: 1696321045275
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 6eb5ba70e8ef4abcb874276564661916
+run_name: caring-bat-667
+run_uuid: 6eb5ba70e8ef4abcb874276564661916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321040862
+status: 4
+tags: []
+user_id: Aman

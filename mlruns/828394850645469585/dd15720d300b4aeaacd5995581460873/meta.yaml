@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/dd15720d300b4aeaacd5995581460873/artifacts
+end_time: 1696321255586
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: dd15720d300b4aeaacd5995581460873
+run_name: ambitious-moth-722
+run_uuid: dd15720d300b4aeaacd5995581460873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321248988
+status: 3
+tags: []
+user_id: Aman

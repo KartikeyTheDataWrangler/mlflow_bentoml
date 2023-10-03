@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/3d81c3dc242f4908b4ac5efa1546cd2f/artifacts
+end_time: 1696320447588
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 3d81c3dc242f4908b4ac5efa1546cd2f
+run_name: clumsy-pig-844
+run_uuid: 3d81c3dc242f4908b4ac5efa1546cd2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696320440381
+status: 3
+tags: []
+user_id: Aman

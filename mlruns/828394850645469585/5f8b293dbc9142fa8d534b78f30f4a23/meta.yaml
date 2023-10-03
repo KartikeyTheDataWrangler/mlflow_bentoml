@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/828394850645469585/5f8b293dbc9142fa8d534b78f30f4a23/artifacts
+end_time: 1696322624092
+entry_point_name: ''
+experiment_id: '828394850645469585'
+lifecycle_stage: active
+run_id: 5f8b293dbc9142fa8d534b78f30f4a23
+run_name: calm-finch-61
+run_uuid: 5f8b293dbc9142fa8d534b78f30f4a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696322617774
+status: 3
+tags: []
+user_id: Aman
