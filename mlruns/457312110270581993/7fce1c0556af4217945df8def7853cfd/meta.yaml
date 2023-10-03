@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/7fce1c0556af4217945df8def7853cfd/artifacts
+end_time: 1696331199548
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: 7fce1c0556af4217945df8def7853cfd
+run_name: casual-jay-881
+run_uuid: 7fce1c0556af4217945df8def7853cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696331190654
+status: 3
+tags: []
+user_id: Aman

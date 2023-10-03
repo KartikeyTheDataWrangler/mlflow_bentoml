@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/8020e94d36b042e78c273cc3424c1b96/artifacts
+end_time: 1696331106679
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: 8020e94d36b042e78c273cc3424c1b96
+run_name: stylish-snipe-686
+run_uuid: 8020e94d36b042e78c273cc3424c1b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696331097686
+status: 3
+tags: []
+user_id: Aman

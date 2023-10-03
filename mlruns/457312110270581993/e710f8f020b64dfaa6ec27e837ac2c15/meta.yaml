@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/e710f8f020b64dfaa6ec27e837ac2c15/artifacts
+end_time: 1696331003242
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: e710f8f020b64dfaa6ec27e837ac2c15
+run_name: useful-slug-573
+run_uuid: e710f8f020b64dfaa6ec27e837ac2c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696331003217
+status: 4
+tags: []
+user_id: Aman

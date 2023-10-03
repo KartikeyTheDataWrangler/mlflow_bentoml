@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/3957dd02518b4624b53a5339e86098a1/artifacts
+end_time: 1696329375193
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: 3957dd02518b4624b53a5339e86098a1
+run_name: puzzled-dog-88
+run_uuid: 3957dd02518b4624b53a5339e86098a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696329369802
+status: 3
+tags: []
+user_id: Aman

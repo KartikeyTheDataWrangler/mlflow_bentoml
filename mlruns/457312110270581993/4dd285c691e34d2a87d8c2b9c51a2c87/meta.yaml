@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/4dd285c691e34d2a87d8c2b9c51a2c87/artifacts
+end_time: 1696331181518
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: 4dd285c691e34d2a87d8c2b9c51a2c87
+run_name: sedate-kite-403
+run_uuid: 4dd285c691e34d2a87d8c2b9c51a2c87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696331178692
+status: 3
+tags: []
+user_id: Aman

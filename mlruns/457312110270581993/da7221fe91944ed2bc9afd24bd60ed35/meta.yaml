@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/da7221fe91944ed2bc9afd24bd60ed35/artifacts
+end_time: 1696330893887
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: da7221fe91944ed2bc9afd24bd60ed35
+run_name: inquisitive-roo-94
+run_uuid: da7221fe91944ed2bc9afd24bd60ed35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696330889306
+status: 3
+tags: []
+user_id: Aman

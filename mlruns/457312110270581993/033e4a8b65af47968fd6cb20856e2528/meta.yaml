@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/SOFTWARES/PYTHON/mlflow_bentoml/mlruns/457312110270581993/033e4a8b65af47968fd6cb20856e2528/artifacts
+end_time: 1696331199940
+entry_point_name: ''
+experiment_id: '457312110270581993'
+lifecycle_stage: active
+run_id: 033e4a8b65af47968fd6cb20856e2528
+run_name: crawling-lark-660
+run_uuid: 033e4a8b65af47968fd6cb20856e2528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696331190462
+status: 3
+tags: []
+user_id: Aman
